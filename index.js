@@ -8,7 +8,7 @@ const client = new Client({
 const Config = require("../raid/config.json");
 const prefix = Config.prefix;
 const invite_link =
-  "https://discord.com/api/oauth2/authorize?client_id=956198381821255680&permissions=8&scope=bot";
+  "your_bot's invite link here";
 const { Permissions } = require("discord.js");
 spam_channel_name = [
   "☊⏃⊬",
